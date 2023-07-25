@@ -6,8 +6,8 @@
 
 :strawberry: **About Me** 
 
-- :telescope: 主要使用: Python, Golang 
-- :seedling: 推し: [烟绯](https://mzh.moegirl.org.cn/%E7%83%9F%E7%BB%AF), [由比ヶ浜結衣](https://zh.moegirl.org.cn/zh-hans/%E7%94%B1%E6%AF%94%E6%BB%A8%E7%BB%93%E8%A1%A3), [ふるかわ なぎさ](https://zh.moegirl.org.cn/%E5%8F%A4%E6%B2%B3%E6%B8%9A) 
+- :telescope: 主要使用: Python, Rust 
+- :seedling: 推し: [エリス](https://mzh.moegirl.org.cn/%E8%89%BE%E8%8E%89%E4%B8%9D%C2%B7%E4%BC%AF%E9%9B%B7%E4%BA%9A%E6%96%AF%C2%B7%E6%A0%BC%E9%9B%B7%E6%8B%89%E7%89%B9), [烟绯](https://mzh.moegirl.org.cn/%E7%83%9F%E7%BB%AF) 
 - :mailbox_closed: E-mail: hanry.rui@gmail.com
 - :man_technologist: Research Interest: 系统生物学与人工智能方向
 
@@ -15,6 +15,7 @@
 
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)
+![](https://img.shields.io/badge/-Rust-d7601b?style=flat-square&logo=Rust&logoColor=fff)
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
